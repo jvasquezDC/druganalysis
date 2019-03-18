@@ -1,0 +1,9 @@
+mpld3==0.3
+sklearn
+scipy>=0.13.3
+numpy>=1.8.2
+nltk==3.4
+singledispatch==3.4.0.3
+pandas
+matplotlib
+
